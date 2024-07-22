@@ -1,3 +1,7 @@
+# Presentation
+This plugin is an innovative solution for providing personalised learning support to students, using the latest AI technologies. 
+This is the VectorStore that needs to be installed to run the Moodle plugin local_lmsassistant that displays the assistant in courses.
+
 # API Moodle files stored in vector storage
 
 This is a repository for the API storing the files of the courses of Moodle platform in a vector storage.
